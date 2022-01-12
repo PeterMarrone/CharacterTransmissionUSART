@@ -1,8 +1,6 @@
 /*
  *
  * Name: Peter Marrone
- * Lab3
- * Date: 9/24/2021
  *
  */ 
 
